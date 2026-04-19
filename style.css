@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+body
+{
+    width: 100vw;
+    height: 100vh;
+}
+
+.fullBox
+{
+    width: 50vw;
+    height: 80vh;
+    margin: 10vh 25vw;
+    text-align: center;
+}
+.imgBox
+{
+    width: 100%;
+    height: 60vh;
+    display: block;
+}
+
+button
+{
+    width: 100%;
+    padding: 15px;
+    font-size: 20px;
+    background: linear-gradient(to right, orange,green);
+    color: white;
+}
